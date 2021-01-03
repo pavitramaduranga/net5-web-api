@@ -1,4 +1,4 @@
-# net5-web-api
+# net5 Web Api
 This application demonstrates an end to end implementation including CRUD operations using .net 5
 
 Applications uses
