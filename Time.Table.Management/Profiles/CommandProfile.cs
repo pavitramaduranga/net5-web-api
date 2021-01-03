@@ -13,6 +13,7 @@ namespace Time.Table.Management.Profiles
         public CommandProfile()
         {
             CreateMap<Command, CommandReadDto>();
+            CreateMap<CommandCreateDto,Command>();
         }
     }
 }
